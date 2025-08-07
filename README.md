@@ -36,7 +36,7 @@ Add to your Claude Desktop configuration (`~/Library/Application Support/Claude/
   "mcpServers": {
     "random": {
       "command": "node",
-      "args": ["/absolute/path/to/mcp-random/dist/index.js"]
+      "args": ["/Users/bard/Code/mcp-random/dist/index.js"]
     }
   }
 }
